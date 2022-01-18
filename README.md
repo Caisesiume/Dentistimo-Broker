@@ -4,7 +4,7 @@ All communication in the systems are enabled by this broker.
 
 ### Development team
 
-<img src="https://avatars.githubusercontent.com/u/51012876?v=4" alt="Profile Picture DrakeAxelrod" width="20"/> [Drakeaxelrod](https://github.com/Drakeaxelrod)
+<img src="https://avatars.githubusercontent.com/u/51012876?v=4" alt="Profile Picture DrakeAxelrod" width="20"/> [DrakeAxelrod](https://github.com/Drakeaxelrod)
 
 <img src="https://avatars.githubusercontent.com/u/71592942?s=40&v=4" alt="Profile Picture Caisesiume" width="20"/> [Caisesiume](https://github.com/Caisesiume)
 
