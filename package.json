@@ -1,0 +1,23 @@
+{
+  "name": "project-16-project-broker",
+  "version": "0.0.1",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node ./src/test/websocket.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "DIT355-Team-16",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "latest",
+    "dotenv": "^10.0.0",
+    "mqtt": "^4.2.8",
+    "websocket-stream": "^5.5.2"
+  }
+}
